@@ -1,2 +1,2 @@
 # LimbusCogitoBottle
-边狱公司脑啡肽瓶桌宠
+边狱公司脑啡肽瓶桌面小工具
